@@ -104,5 +104,8 @@ python app.py
 ```
 This will start a Gradio-based web application where users can input text and receive toxicity predictions in real time.
 
+### Screenshots
+![Image 1](img/image1.png)
+![Image 2](img/image2.png)
 
 
